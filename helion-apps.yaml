@@ -1,0 +1,15 @@
+store:
+  title: ESIT Applications
+  contact: David Marcucci <david.marcucci@hp.com>
+  icon: http://static.als.hpcloud.com/hp.ico
+apps:
+- name: ' LimeSurvey'
+  id: LimeSurvey
+  desc: LimeSurvey is an open source survey application.
+  framework: php
+  runtime: php
+  commit: master
+  src: https://github.com/marcucci/LimeSurvey.git
+  info: https://raw.githubusercontent.com/marcucci/LimeSurvey/master/README
+  icon: https://raw.githubusercontent.com/marcucci/LimeSurvey/master/templates/clear_logo/Logo-LimeSurvey.jpg
+  mem: 256
