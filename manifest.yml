@@ -1,0 +1,4 @@
+---
+applications:
+- name: ESIT App Store
+  mem 128M

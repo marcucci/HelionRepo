@@ -1,0 +1,6 @@
+{
+  "name": "ESIT App Store",
+  "version": "1.0.0",
+  "description" : "A simple app to server the ESIT App Store YAML file.",
+  "repository" : {"type": "git", "url": "https://github.com/marcucci/HelionRepo.git"}
+}
