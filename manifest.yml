@@ -1,4 +1,5 @@
 ---
 applications:
-- name: ESIT App Store
-  mem 128M
+- name: esit-marketplace-yaml
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+  mem: 128M
