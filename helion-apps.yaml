@@ -3,7 +3,7 @@ store:
   contact: David Marcucci <david.marcucci@hp.com>
   icon: http://static.als.hpcloud.com/hp.ico
 apps:
-- name: ' LimeSurvey'
+- name: LimeSurvey
   id: LimeSurvey
   desc: LimeSurvey is an open source survey application.
   framework: php
