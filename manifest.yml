@@ -2,4 +2,4 @@
 applications:
 - name: esit-marketplace-yaml
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  mem: 128M
+  mem: 64M
