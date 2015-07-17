@@ -6,6 +6,7 @@ apps:
 - name: LimeSurvey
   id: limesurvey
   desc: LimeSurvey is an open source survey application.
+  services: filesystem, mysql
   framework: php
   runtime: php
   commit: master

@@ -1,5 +1,6 @@
 ---
 applications:
 - name: esit-marketplace-yaml
-  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  mem: 64M
+  buildpack: https://github.com/cloudfoundry-community/staticfile-buildpack#v1.1.1
+  mem: 32M
+  disk: 16M
